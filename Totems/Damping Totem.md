@@ -1,0 +1,1 @@
+Prevents explosions from occurring around the totem, for every explosion near it, its range grows. resets after a period of time. low [[Entropy]] cost

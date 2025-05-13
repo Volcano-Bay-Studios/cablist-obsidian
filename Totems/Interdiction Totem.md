@@ -1,0 +1,1 @@
+Prevents teleportation to/from the area around the totem, large [[Entropy]] cost

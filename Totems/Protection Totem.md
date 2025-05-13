@@ -1,0 +1,1 @@
+Prevents block breaking in an area around the totem, medium [[Entropy]] cost

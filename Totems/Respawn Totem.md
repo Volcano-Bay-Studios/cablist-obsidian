@@ -1,0 +1,1 @@
+Forces players that die nearby to respawn at the base of the totem, large [[Entropy]] cost

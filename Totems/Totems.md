@@ -1,0 +1,1 @@
+Totems are special structures that can prevent actions from occurring by pulling [[Entropy]] from a connected [[Network]]

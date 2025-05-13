@@ -1,0 +1,1 @@
+power unit of mod, can be generated via explosions or via burning things

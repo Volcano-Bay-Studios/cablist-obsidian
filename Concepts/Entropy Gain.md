@@ -1,0 +1,2 @@
+[[Entropy]] can be gained in two manners, burning a flammable block that is touching [[Oscillostone]], or causing an explosion that touches an [[Oscillostone]]. Explosions [[Supercharge]] a [[Network]]. 
+Conversely, growing crops near a [[Network]] may reduce the [[Entropy]] within
