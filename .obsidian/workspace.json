@@ -11,10 +11,14 @@
             "id": "022fbed8d73148fc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Blocks/Entropy Sap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entropy Sap"
             }
           }
         ]
@@ -167,6 +171,7 @@
   },
   "active": "022fbed8d73148fc",
   "lastOpenFiles": [
+    "Blocks/Entropy Sap.md",
     "Central Concept.md",
     "Blocks/Oscillostone.md",
     "Blocks/Superheated Sand.md",
